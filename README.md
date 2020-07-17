@@ -5,28 +5,28 @@ Time_Series_Analysis
 
 Data: https://www.kaggle.com/bryanb/cac40-stocks-dataset
 “This dataset is scrapped from a finance website. It contains all daily CAC40 Stocks from 2010 to 2020.CAC40 documentation”
+
+
 Tasks:
 Practise EDA applied to time series
+
 Make use of statistical tests to check stationarity (Dickey-Fuller test…)
+
 Get more familiar with Akaike information criterion, estimator of out-of-sample prediction error
+
 Learn how to tune autoARIMA models
-Setup a forecasting strategy on stocks
-Segmentation
+
+Setup a forecasting strategy on stocks Segmentation
+
 Identify stress periods specific to an industry
+
+
 Aim:   Stock  Market Prediction
+
 Features:'Name','Date','Open','Closing_Price','Daily_High','Daily_Low','Volume
+
+
 Target:  ‘Closing Price’, ‘Daily High’, ‘Daily Low’
-
-
-
-
-
-
-
-
-
-
-
 
 Objective
 
